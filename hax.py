@@ -154,4 +154,4 @@ async def betrayal(ctx):
 
     await ctx.send(embed=embed)
 
-client.run("your_token_here")
+client.run("Nzk4NDg4MDAyNTkwMDE1NTA4.X_1v5w.wGyk1UkZ5n4tV9A6Rg9xtMTz-eA")
